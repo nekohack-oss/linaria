@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "outDir": "./lib",
+    "lib": ["es2018", "dom"],
+    "target": "es5",
+    "module": "esnext",
+    "jsx": "react",
+    "jsxFactory": "h",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

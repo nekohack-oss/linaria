@@ -1,0 +1,13 @@
+storybook-static
+/node_modules
+package-lock.json
+yarn.lock
+
+dist
+
+.cache
+.DS_Store
+
+.linaria-cache
+
+coverage
